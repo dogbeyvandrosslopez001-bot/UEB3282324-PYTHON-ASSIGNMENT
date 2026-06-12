@@ -1,0 +1,2 @@
+# UEB3282324-PYTHON-ASSIGNMENT
+A simple calculator
